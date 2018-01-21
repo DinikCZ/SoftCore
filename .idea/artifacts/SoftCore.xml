@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SoftCore">
+    <output-path>$PROJECT_DIR$/out/artifacts/SoftCore</output-path>
+    <root id="archive" name="SoftCore.jar" />
+  </artifact>
+</component>
